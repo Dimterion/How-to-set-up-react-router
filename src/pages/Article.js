@@ -21,6 +21,14 @@ function Article() {
         and then decided to add some additional pages there with{" "}
         <a href="https://reactrouter.com/">React Router</a>.<br></br>
         <br></br>
+        <a href="https://enchanting-nougat-b81b3a.netlify.app/">Here</a> is a
+        result of the following steps deployed through Netlify. The repo can be
+        seen{" "}
+        <a href="https://github.com/Dimterion/How-to-set-up-react-router">
+          here
+        </a>
+        .<br></br>
+        <br></br>
         React Router is a library for React that helps you arranging all the
         pages of the project (routes). It can be installed in the root folder of
         the project with the following command in the terminal (current version
@@ -115,7 +123,10 @@ function Article() {
         <br></br>
         There's obviously a ton of other things that can be done with React
         Router (check the <a href="https://reactrouter.com/docs/en/v6">docs</a>)
-        but this is how it's basic structure looks like.
+        but this is how it's basic structure looks like.<br></br>
+        <br></br>
+        As usual, if you read till this point and find it a smidge useful, I
+        thank thee, kind person.
       </p>
     </div>
   );
